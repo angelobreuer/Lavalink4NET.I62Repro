@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30626.31
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lavalink4NET.I62Repro", "Lavalink4NET.I62Repro.csproj", "{94C49A09-F79A-4252-9CA9-925EDAA7FFD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C49A09-F79A-4252-9CA9-925EDAA7FFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C49A09-F79A-4252-9CA9-925EDAA7FFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C49A09-F79A-4252-9CA9-925EDAA7FFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C49A09-F79A-4252-9CA9-925EDAA7FFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {334187D1-9318-440F-90EB-A3E4C45D00BA}
+	EndGlobalSection
+EndGlobal
